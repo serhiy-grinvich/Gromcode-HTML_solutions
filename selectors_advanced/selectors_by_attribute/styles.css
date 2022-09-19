@@ -10,12 +10,12 @@ li {
 [href$=".com"] {
     margin-left: 50px;
 }
-[lang|="en"] {
+li>[lang*="en"] {
     font-size: 10px;
 } /*????*/
 [href*="www"] {
     color: green;
 }
-[title*="popular"] {
+li>[title*="popular"] {
     font-size: 24px;
 }
