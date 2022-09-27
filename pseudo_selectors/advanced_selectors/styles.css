@@ -12,5 +12,5 @@ h1::selection {
     color: blue;
 }
 label {
-    
+    text-transform: uppercase;
 }
