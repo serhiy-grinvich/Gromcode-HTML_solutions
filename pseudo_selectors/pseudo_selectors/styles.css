@@ -1,4 +1,4 @@
-/*.anchor:link { 
+.anchor:link { 
     background-color: black;
     color: white;
 
@@ -17,7 +17,7 @@
 .some-button:disabled {
  border: 2px dashed grey;
 }
-.some-button:enabled:hover {
+.some-button:enabled :hover {
  background-color: grey;
  color: white;
 
