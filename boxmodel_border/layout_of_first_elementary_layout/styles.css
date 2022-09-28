@@ -1,5 +1,5 @@
 div {
-    box-sizing: content-box;
+    box-sizing: border-box;
     margin: 50px;
     border: 2px solid black;
 }
@@ -23,4 +23,5 @@ div {
 .pink {
   height: 100px;
   background-color: pink;
+  box-sizing: content-box;
 }
