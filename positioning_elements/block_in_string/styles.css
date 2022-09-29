@@ -1,4 +1,5 @@
 .block { 
+   box-sizing: border-box;
     height: 200px;
     float: left;
     width: 20%;
