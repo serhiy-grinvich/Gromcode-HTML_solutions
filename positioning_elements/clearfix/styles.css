@@ -1,5 +1,6 @@
 .footer {
     clear: both;
+    box-sizing: border-box;
 
 }
 .red {
