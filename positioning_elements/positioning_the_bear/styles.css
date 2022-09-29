@@ -34,7 +34,7 @@
  width: 200px;
  background-color: aquamarine;
  position: relative;
- top: calc(50% - 100px);
+ top: calc(50%);
  left: calc(50% - 100px);
 
 }
