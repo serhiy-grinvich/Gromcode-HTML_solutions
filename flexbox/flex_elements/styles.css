@@ -5,10 +5,14 @@
       .container {
         display: flex;
         flex-wrap: wrap;
+        flex-grow: 1;
 
       }
       .block {
         height: 100px;
+        width: 100px;
         min-width: 100px;
-       flex-grow: 1;
+        flex-grow: 1;
+        flex-shrink: 0;
+       
       }
