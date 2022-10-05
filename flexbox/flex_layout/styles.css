@@ -29,6 +29,7 @@ ul {
     display: flex;
     flex-direction: column;
     
+    
 }
 .news > h2 {
     align-self: center;
@@ -46,12 +47,17 @@ ul {
 .foo-txt {
     margin: auto;
 }
+.news ul {
+    display: flex;
+    flex-direction: column;
+}
 
 .news_item {
     height: 40px;
     margin-left: 16px;
  list-style: none;
- align-self: auto;
+ display: flex;
+ align-items: center;
 }
 .navigation {
     display: flex;
