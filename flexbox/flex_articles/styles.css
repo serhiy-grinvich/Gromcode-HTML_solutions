@@ -5,9 +5,16 @@ header {
     display: flex;
     justify-content: center;
 }
+.articles-list {
+    display: flex;
+    flex-wrap: wrap;
+
+}
 .article {
     background-color: bisque;
     margin: 8px;
     padding: 16px;
-    min-width: 300px;
+    flex-basis: 300px;
+    flex-grow: 1;
+    flex-shrink: 1;
 }
