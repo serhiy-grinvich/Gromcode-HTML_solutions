@@ -6,8 +6,9 @@ html {
     list-style-type: none;
     color: #f39;
     line-height: 32px;
+    font-size: 24px;
 }
 .properties-list__item {
     padding: 8px; 
-    font-size: 24px;
+    /* font-size: 24px; */
 }
