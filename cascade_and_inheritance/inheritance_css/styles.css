@@ -1,4 +1,4 @@
-* {
+html {
     font-size: 18px;
     /* box-sizing: border-box; */
 }
@@ -6,7 +6,6 @@
     list-style-type: none;
     color: #f39;
     line-height: 32px;
-    margin-top: 17px;
 }
 .properties-list__item {
     padding: 8px; 
