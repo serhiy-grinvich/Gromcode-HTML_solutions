@@ -1,11 +1,12 @@
 * {
     font-size: 18px;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
 .properties-list {
     list-style-type: none;
     color: #f39;
     line-height: 32px;
+    margin-top: 19px;
 }
 .properties-list__item {
     padding: 8px; 
