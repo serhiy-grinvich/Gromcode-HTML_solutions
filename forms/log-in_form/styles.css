@@ -34,7 +34,8 @@
     margin-bottom: 4px;
 }
 .form-control {
-    margin: 8px 0;
+    /* margin: 8px 0; */
+    margin-bottom: 8px;
 
 }
 .submit-button {
