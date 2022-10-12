@@ -30,6 +30,9 @@ tbody > tr:hover {
     background-color: #aaa;
     color: white;
 }
+caption {
+    margin-bottom: 8px;
+}
 /* 
 tbody td:hover {
     background-color: coral;
