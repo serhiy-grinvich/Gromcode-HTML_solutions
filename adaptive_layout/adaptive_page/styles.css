@@ -98,12 +98,12 @@ body {
     flex: 4;
   }
   .news {
-    flex: 1;
+    width: 20%;
   }
   .navigation {
-    flex: 1;
+    width: 20%;
   }
   .section {
-    flex: 3;
+    width: 60%;
   }
 }
