@@ -83,10 +83,10 @@ body {
     display: flex;
   }
   .navigation {
-    flex: 1;
+    flex: 2;
   }
   .section {
-    flex: 4;
+    flex: 8;
   }
 }
 @media (min-width: 1200px) {
