@@ -1,0 +1,42 @@
+@import 'layout.scss';
+.content {
+  @include for-middle-up {
+    display: flex;
+  }
+}
+.products {
+  @include for-small-up {
+    display: flex;
+    flex: 2;
+  }
+}
+.navigation {
+  background-color: #ff7f50;
+}
+// .block-title {
+//   text-transform: lowercase;
+//   font-family: Verdana, Geneva, Tahoma, sans-serif;
+//   padding: 8px;
+//   background-color: #faebd7;
+//   border-radius: 4px;
+// }
+.product-list {
+  background-color: #006400;
+}
+.news {
+  background-color: #0ff;
+}
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  height: 200px;
+  &__title {
+    text-transform: lowercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 8px;
+    background-color: #faebd7;
+    border-radius: 4px;
+  }
+}
