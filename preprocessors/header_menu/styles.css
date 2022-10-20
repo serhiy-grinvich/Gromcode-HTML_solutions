@@ -9,11 +9,12 @@
   margin: 0;
   padding: 0;
   height: 3em;
+  margin-left: 3em;
 }
 .menu__item {
-  margin-left: 3em;
   line-height: 3em;
   padding: 0 8px;
+  color: #fff;
   cursor: pointer;
 }
 .menu__item_active {

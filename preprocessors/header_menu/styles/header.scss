@@ -8,11 +8,13 @@
   margin: 0;
   padding: 0;
   height: 3em;
+  margin-left: 3em;
 
   &__item {
-    margin-left: 3em;
+    // margin-left: 3em;
     line-height: 3em;
     padding: 0 8px;
+    color: #fff;
     cursor: pointer;
     &_active {
       color: yellow;
